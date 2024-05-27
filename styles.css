@@ -1,13 +1,25 @@
-.icons {
-    ion-icon {
-        color:black
-    }
+
+ion-icon {
+    color: #CAF0F8
 }
+
 
 h1 {
     font-family: "Poppins", sans-serif;
+    color: #CAF0F8
 }
 
 h2 {
+    color: #CAF0F8
+}
+h3 {
+    color: #CAF0F8
+}
 
+p {
+    color: #CAF0F8
+}
+
+body {
+    background-color: #03045E;
 }
