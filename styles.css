@@ -37,3 +37,12 @@ p {
     font-family: "Rubik", sans-serif;
     color: #CAF0F8;
 }
+
+.hidden {
+    opacity: 0;
+    transition: all 1s;
+}
+
+.show {
+    opacity: 1;
+}
