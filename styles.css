@@ -1,17 +1,21 @@
 body {
     background-color: #03045E;
+    padding: 0;
+    margin: 0;
 }
 
 section{
     display: grid;
     place-items: center;
     align-content: center;
-    min-height: 100vh;
+    min-height: 75vh;
 }
 
 .title{
+    display: grid;
     place-items: start;
     align-content: start;
+    min-height: 75vh;
 }
 
 ion-icon {
@@ -40,7 +44,7 @@ p {
 
 .hidden {
     opacity: 0;
-    transition: all 1s;
+    transition: all 3s;
 }
 
 .show {
